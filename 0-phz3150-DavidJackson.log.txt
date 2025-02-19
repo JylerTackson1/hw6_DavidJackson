@@ -1,0 +1,152 @@
+David Jackson
+Log for PHZ 3150, Spring 2025
+
+
+*****IN: Mon Jan 15 09:15 AM EST 2025
+Opened TextEdit, started this log, saved as:
+C:\Users\Tyler Jackson\01 - SCHOOL\IntroToNumericalComputing\0-phz3150-DavidJackson.log
+
+Copied survey questions into log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: David Jackson
+Email: da668497@ucf.edu
+Phone: 407-405-5154
+Major: Computer Science
+Year: Senior
+ID: 5298477
+How did you hear about this course?
+	-I discovered this course while browsing for courses for my Physics Minor.
+Do you have a laptop you can bring to class, install software on, etc.?
+	-Yes
+What operating system and version does it run?
+	-Windows
+How much free disk space does it have?
+	-314 GB
+What operating systems are you comfortable working in?
+	-Windows (advanced)
+	-MacOS (Beginner)
+What computer classes have you taken, including high school, extracurricular, etc.?
+	-CS1, CS2, OOP, C, Python, Web Development, and more... I am taking this course to help me with understanding how to go about working on a research project.
+Have you ever programmed a computer?
+	-Yes
+In what language(s)?
+	-Python,C,C++,C#,Java,JavaScript These are probably my most comfortable lanuages.
+
+Summarize your experience:
+Have you taken statistics or probability?
+	-I have taken stats and am taking AI & Alg for Machine learning which both are heavily involved with probability.
+Why are you taking this course?
+	-To get a better understandning about going through research and programming for my 2 research projects I am conducting
+Are there particular topics you hope to learn?
+	-I am particularly interested in particle physics for running simulations however I am interested in learning a deeper understandning of conducting and learning from experiments.
+If you have worked with scientific data or modeling before, briefly describe your experience:
+	-I have done AI modeling, that is the only time I have worked with data and modeling.
+	-I am currently working on an autonomous drone project where I am building a model from scratch and collecting data, this is proably the most experience I have had.
+Have you ever been involved with a science club or similar? If so, describe:
+	-I have been involved with several ENgineering and AI clubs for the past several semesters. I lead clubs and several workshops to put on my resume.
+
+I previously had all dependencies installed from doing work on my project as well as websites such as Kaggle and hackathons. Furthermore I already had Anaconda Installed as I previously have used it and have it being used in my project.
+I installed Github Desktop and made an account with UCF nid email
+Installed Github desktop from:
+https://desktop.github.com/download/
+
+Using my Anaconda prompt, my 3.12.7
+Anaconda was already installed to:
+C:\Users\Tyler Jackson\Anaconda>
+
+Github Installed to:
+C:\Users\Tyler Jackson\GithubDesktop>
+
+I used the snipping tool to take screenshots, that is my preferred way of taking screenshots on windows as I can get a perfect picture of what Im screenshoting.
+
+*****OUT: Mon Jan 15 10:20 AM EST 2025
+
+
+
+*****IN: Mon Jan 22 12:08 PM EST 2025
+Beginning HW 2
+
+Noticed yesterday that the homework was due today so I decided that I would do it today... Noticed today that the homework was due at 11:30AM... Big sad.
+Anyways we continue the grind, I opened Webcourses to take a look at the assignment.
+The frist thing the assignment does is tell me to make a new folder.
+I navigate to the same place that HW1 folder is located and create a HW2 folder
+	-'C:\Users\Tyler Jackson\01 - SCHOOL\IntroToNumericalComputing'
+
+This is when the instructions mentioned that we will be using the same .log for all logs so I opened the log and made a new submission for today.
+In the instruction it says: 
+	"In your log, write an original English sentence that has correct syntax but uses incorrect characters, and an original English sentence with incorrect syntax but correct characters.
+	 What main “feature” of natural languages prevents their use (so far) as programming languages, and why?
+	 Answer clearly and in a few sentences, no more."
+
+1) Original English Sentence
+	-Bray, how is your banana?	(Bray is my cat, her banana is her toy that is stuffed with catnip she gos crazy for)
+2) Original English Sentence, correct syntax yet incorrect characters
+	-"Bŗåy, h0w íš yøur bąnãnã?"
+3) Original English Sentence, incorrect syntax yet correct characters
+	-"Bray, your banana how is?"
+What main feature of natural languages that prevents their use as programming languages, why?
+	-I believe the main feature of natural languages that prevents their use as programming languages is the lack of a rule set and regulation.
+	 In a natural language there are slang terms, legal terms, accents, regional dialects, etc... that all speak differently making it so you must adjust when aqcuianted with these new things.
+	 A programming language has one way of understanding the code, being an interpretter or compiler (or two if your java), and this code is structured in a way such that the compiler or interpreter understands.
+	
+
+I continued the instructions on the Webcourses Page, I started the Github Start your Journey tutorial on my github student desktop account.
+I firstly created a repo with the name 'hello-world'
+With the description: "This repository is for practicing the GitHub Flow."
+With a read me file.
+
+I finished the tutorial.
+I was very confused because we were initially told to download the desktop version of github and I assumed we were supposed to do that.
+However the tutorial shows everything from the online version so I went to that because it was much easier to follow the tutorial.
+If I made a mistake I will happily redo it but this is my first time using the online or desktop version of github, I mainly have tried using Git.
+I like it as a lot of the things I use through Git are very tedious and Github is very User friendly with a nice UI.
+
+
+I opened VSCODE and opened the designated spot for the file for the .ipynb to be designated in.
+I did the several problems on the webcourses which deal with variable printing, assignment, and manipulation.
+I am now copying all this to a markdown cell and turning in the assignment.
+
+*****OUT: Mon Jan 22 1:16 PM EST 2025
+
+
+
+*****IN: Mon Jan 28 12:55 PM EST 2025
+Beginning HW 3
+
+HAHA IM AHEAD OF THE CURVE NOW... or im just at the curve turning my work in on time.
+Anyways I opened up my webcourses to begin the 3rd assignment.
+
+I began reviewing the assignment and saw that I was going to have to access Github again...
+I mean this should have been obvious, we will do this throughout the whole course but anyways, I mention this because I am on my desktop and NOT my laptop which I did my previous assignment on.
+NO WORRIES I have everything downloaded and ready.
+I sign in and get my github ready.
+I get everything synced up and start my assignment...
+This is when I see that I need my log so I begin my log around 1:10 PM
+
+I have been working on this homework for about an hour and I am a little over halfway done.
+I am now working on uploading the homework to Github so that I can have a saving point.
+This homework is covereing creating functions and passing in arguments as well as creating functions in seperate files and importing those functions into our working space.
+
+It is now 3PM I have uploaded all code to the github, I have finished all the requested hw assignments of me in the webcourses and I am now closing my log.
+Everything can be seen on my student github connected to my student email.
+All changes done can be seen in the folder PHZ-3150 - HW_3
+
+*****OUT: Mon Jan 28 2:58 PM EST 2025
+
+*****IN: Tue Feb 4 2:20 PM EST 2025
+Beginning HW 4
+
+I began the homework in the 3rd floor of CB1.
+I downloaded the homework and opened it up in vscode.
+I worked with Gio on the homework and had minor diffuculty on it.
+Very simple homework that delt with importing a function from a file, creating complex functions and sending and receiving arguments from those functions.
+*****OUT: Tue Feb 4 3:49 PM EST 2025
+
+*****IN: Tue Feb 11 6:55 PM EST 2025
+I logged in to webcourses and downloaded the file.
+I opened the file and did all the questions in the jupytner notebook file.
+I am not filling out the log and putting it all in my repo to push to my github
+
+Tyler Out
+*****OUT: Tue Feb 11 7:58 PM EST 2025
