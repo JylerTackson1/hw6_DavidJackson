@@ -146,7 +146,16 @@ Very simple homework that delt with importing a function from a file, creating c
 *****IN: Tue Feb 11 6:55 PM EST 2025
 I logged in to webcourses and downloaded the file.
 I opened the file and did all the questions in the jupytner notebook file.
-I am not filling out the log and putting it all in my repo to push to my github
+I am now filling out the log and putting it all in my repo to push to my github
 
 Tyler Out
 *****OUT: Tue Feb 11 7:58 PM EST 2025
+
+*****IN: Tue Feb 18 8:25 PM EST 2025
+What up What up What up. I logged in, did the work and turned it in.
+I ainted gone lie. I really wish the grader would be a little lighter on the grading.
+All my scripts are running properly but the formatting is getting me points off...
+
+Tyler Out
+*****OUT: Tue Feb 18 10:47 PM EST 2025
+
